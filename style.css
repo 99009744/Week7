@@ -1,0 +1,10 @@
+.grid-container {
+    display: grid;
+    grid-column-gap: 50px;
+    grid-template-columns: 300px, 300px, 300px; 
+ }
+ 
+ var {
+     background-image: url("banner_bg.png");
+     background-size:
+ }
